@@ -42,28 +42,11 @@
   
 </p>
 </br>
-<img align="right" width="290" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" alt="Coding">
-<h3 align="left">Online judge ID's:</h3>
-<p align="left">
 
- <a href="https://www.hackerearth.com/@anik27"><img alt="Custom badge" src="https://img.shields.io/badge/Hacker%20Earth-27-yellowgreen" height="30px" ></a>
-    <a href="https://www.topcoder.com/members/Anikchakraborty"><img alt="Custom badge" src="https://img.shields.io/badge/Top%20Coder-10-blue" height="30px" ></a>
-    <a href="https://www.urionlinejudge.com.br/judge/en/profile/251274"><img alt="Custom badge" src="https://img.shields.io/badge/URI-47-lightgrey" height="30px" ></a>
-    <a href="https://leetcode.com/Dark_Rider_00/"><img alt="Custom badge" src="https://img.shields.io/badge/LeetCode-10-red" height="30px" ></a>
- <a href="https://codeforces.com/profile/_Dark_Rider_"><img alt="Custom badge" src="https://img.shields.io/badge/Codeforces-1755-blue" height="30px" ></a>
- <a href="https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15"><img alt="Custom badge" src="https://img.shields.io/badge/UVA-164-blue" height="30px" ></a>
-    <a href="https://toph.co/u/ihavedone"><img alt="Custom badge" src="https://img.shields.io/badge/Toph-125-yellow" height="30px" ></a>
-    <a href="https://www.e-olymp.com/en/users/DarkRider"><img alt="Custom badge" src="https://img.shields.io/badge/e--olymp-11-red" height="30px" ></a>
-    <a href="https://cses.fi/user/8366"><img alt="Custom badge" src="https://img.shields.io/badge/CSES-4-blue" height="30px" ></a>
-    <a href="https://lightoj.com/user/anikchakrabo_"><img alt="Custom badge" src="https://img.shields.io/badge/LightOj-64-brightgreen" height="30px" ></a>
-    <a href="https://www.spoj.com/myaccount/"><img alt="Custom badge" src="https://img.shields.io/badge/SPOJ-77-red" height="30px" ></a>
-    <a href="https://www.codechef.com/users/anik121"><img alt="Custom badge" src="https://img.shields.io/badge/CodeChef-54-orange" height="30px" ></a>
-    <a href="https://projecteuler.net/progress"><img alt="Custom badge" src="https://img.shields.io/badge/Project%20Euler-18-yellow" height="30px" ></a>
-    <a href="https://www.hackerrank.com/anikchakraborty4"><img alt="Custom badge" src="https://img.shields.io/badge/HackerRank-40-yellowgreen" height="30px" ></a>
- <br>
-    <a href="http://www.devskill.com/MyAccount/Profile"><img alt="Custom badge" src="https://img.shields.io/badge/Dev%20Skill-34-green" height="30px" ></a>
-    <a href="https://acm.timus.ru/problemset.aspx"><img alt="Custom badge" src="https://img.shields.io/badge/Timus-5-lightgrey" height="30px" ></a>
-</p>
+
+   
+   
+ 
 
 </br>
 
@@ -89,10 +72,7 @@
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="linux" /> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" /> </a> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /> </a>
- <a href="https://www.kali.org/" target="_blank"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="kali linux" /> </a>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />
-<img src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white" alt="Deepin OS" />
 
 </p>
 </br>
@@ -100,10 +80,10 @@
 
 <p align="center">
   <img height=230px src="https://i.pinimg.com/564x/28/f2/76/28f2765e35060ace8830174479e60976.jpg" /> 
- <img height=200px src=https://github-readme-stats.vercel.app/api/top-langs/?username=anikcb&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
+ <img height=200px src=https://github-readme-stats.vercel.app/api/top-langs/?username=SySagar&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
 </P>
 <p align="center">
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270"><img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" width="100" data-canonical-src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270"><img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270"><img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" width="100" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270"><img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270"><img src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width:100%;"></a><br><br>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270"><img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" width="100" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270"><img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270"><img src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width:100%;"></a><br><br>
  </p>
 <br>
 
@@ -111,14 +91,14 @@
 
 <h3 align="left">Statistics: </h3>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anikcb&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikcb&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SySagar&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SySagar&theme=tokyonight" />
  
 </p>
 <br>
 
 <h3 align="left">Contributions: </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=Anikcb&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width:100%;">
+<img src="https://activity-graph.herokuapp.com/graph?username=SySagar&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width:100%;">
 <br>
 <img src="https://raw.githubusercontent.com/Anikcb/Anikcb/3255a1b374b698bf842f5f7788bd22cdc9046166/profile_data/github-user-contribution.svg" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑" style="max-width:100%;">
 
