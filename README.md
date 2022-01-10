@@ -16,8 +16,8 @@
 
 - 🌱 I’m currently learning **Android**
 - 💬 Ask me about **Programming**
-- 📝 I write poems on [brain Station 404!](https://brainstation10.blogspot.com/)
-
+- 📝 I write poems on [blogger](https://www.blogger.com/profile/09991946095413547472)
+- 🔥  Future goal **Red Coder**
 - ⚡ Fun fact **Love to learn , Think , Implement**
 
 </br>
