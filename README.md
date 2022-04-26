@@ -38,7 +38,7 @@
  <br>
  
  <h3 align="left">Language, Framework and Topics:  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/1200px-Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" height="59px" style="max-width:100%;"></h3>
- <img align="center" src="https://github.com/SySagar/SySagar/blob/main/honeybackground.jpg" />
+ <img align="center" src="https://github.com/SySagar/SySagar/blob/main/background.jpg" />
   
 </p>
 </br>
