@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Android**
 - 💬 Ask me about **Programming**
-- 📝 I write poems on [blogger](https://www.blogger.com/profile/09991946095413547472)
+- 📝 I write poems on [lecifier](https://www.instagram.com/lecifier)
 - 🔥  Future goal **Red Coder**
 - ⚡ Fun fact **Love to learn , Think , Implement**
 
