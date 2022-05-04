@@ -62,6 +62,7 @@
 
 <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="Codechef" title="codechef" data-canonical-src="https://img.shields.io/badge/Android%20Studio-0086F8?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white" style="max-width:100%;">
  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 
 
 </p>
