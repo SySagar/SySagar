@@ -5,7 +5,7 @@
   <img height=150px src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" />
   
  </p>
- <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+SySagar;A+passionate+competitive+programmer;CSE+undergrad%2C;Android+Developer%2C;Where+there+is+Code%2C+There+is+Life;" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+SySagar;A+passionate+competitive+programmer;Android+Developer%2C;Where+there+is+Code%2C+There+is+Life%2c;implementing+Dijkstra's+algorithm+to+every+of+my+problem" />
   </p>
  
  
