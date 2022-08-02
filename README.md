@@ -14,7 +14,7 @@
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 
-- 🌱 I’m currently learning **Android and ML**
+- 🌱 I’m currently learning **Android and WebD**
 - 💬 Ask me about **Programming**
 - 📝 I write poems on [lecifier](https://www.instagram.com/lecifier)
 - 🔥  Future goal **Red Coder**
