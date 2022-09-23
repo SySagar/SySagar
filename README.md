@@ -14,7 +14,7 @@
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 
-- 🌱 I’m currently learning **Android and WebD**
+- 🌱 I’m currently learning **Android and backend developement**
 - 💬 Ask me about **Programming**
 - 📝 I write poems on [lecifier](https://www.instagram.com/lecifier)
 - 🔥  Future goal **Red Coder**
@@ -84,11 +84,6 @@
   <img height=230px src="https://i.pinimg.com/564x/28/f2/76/28f2765e35060ace8830174479e60976.jpg" /> 
  <img height=200px src=https://github-readme-stats.vercel.app/api/top-langs/?username=SySagar&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
 </P>
-<p align="left">
- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270"><img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" width="100" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270"><img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270"><img src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width:100%;"></a><br><br>
- </p>
-<br>
 
 <h1></h1>
 
