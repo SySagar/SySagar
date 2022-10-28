@@ -5,7 +5,7 @@
   <img height=150px src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" />
   
  </p>
- <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=900&height=70&lines=Hi%2C+I'm+SySagar;A+passionate+competitive+programmer;Android+Developer%2C;Where+there+is+Code%2C+There+is+Life%2c;implementing+Dijkstra's+algorithm+to+every+of+my+problem" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+SySagar;A+passionate+competitive+programmer;Android+Developer%2C;Where+there+is+Code%2C+There+is+Life%2c" />
   </p>
  
  
@@ -14,10 +14,10 @@
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 
-- 🌱 I’m currently learning **Android and backend developement**
+- 🌱 I’m currently learning **Flutter and NodeJs developement**
 - 💬 Ask me about **Programming**
-- 📝 I write poems on [lecifier](https://www.instagram.com/lecifier)
-- 🔥  Future goal **Red Coder**
+- ✒️ I write poems on [lecifier](https://www.instagram.com/lecifier)
+- ⚔️  Being blue on Codechef
 - ⚡ Fun fact **Love to learn , Think , Implement**
 
 </br>
@@ -33,20 +33,6 @@
 <a href="https://www.linkedin.com/in/sy-sagar-b311ba227/" rel="nofollow"><img src="https://camo.githubusercontent.com/0ff78512f45d498526f436fb6bb7c8cc39c7a2a8a3eef8b13df9553c34b3b5e3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/linkedin.png" style="max-width:100%;"></a>
 <a href="sysagar07@gmail.com@gmail.com"><img src="https://camo.githubusercontent.com/1d9a59c6da0107279901779c1f1a96a5aec8a0830399e05eb0aef47d9d565d53/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3461393065322f676d61696c2e706e67" data-canonical-src="https://img.icons8.com/clouds/90/4a90e2/gmail.png" style="max-width:100%;"></a>
 <a href="https://api.whatsapp.com/send?phone=6372644454" rel="nofollow"><img src="https://camo.githubusercontent.com/175e706a636868b0dfdea77549b7b337238bc54cd4bfa0286fc4afd33d13a437/68747470733a2f2f696d672e69636f6e73382e636f6d2f636c6f7564732f39302f3030303030302f77686174736170702e706e67" data-canonical-src="https://img.icons8.com/clouds/90/000000/whatsapp.png" style="max-width:100%;"></a>
-
- <br>
- <br>
- 
- <h3 align="left">Language, Framework and Topics:  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/1200px-Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" height="59px" style="max-width:100%;"></h3>
- <img align="center" src="https://github.com/SySagar/SySagar/blob/main/background.png" />
-  
-</p>
-</br>
-
-
-   
-   
- 
 
 </br>
 
