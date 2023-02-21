@@ -14,7 +14,7 @@
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 
 
-- 🌱 I’m currently learning **NextJS , webflow and strapi**
+- 🌱 I’m currently learning **NextJS , Webflow and Strapi**
 - 💬 Ask me about **Programming**
 - ✒️ I write poems on [lecifier](https://www.instagram.com/lecifier)
 - ⚔️  Being blue on Codechef
