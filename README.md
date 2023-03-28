@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **NextJS , tRPC and Strapi**
 - 💬 Ask me about **Programming**
-- ✒️ I write poems on [lecifier](https://www.instagram.com/lecifier)
+- ✒️ Crafting words into life at [lecifier](https://www.instagram.com/lecifier)
 - ⚔️  Being blue on Codechef
-- ⚡ Fun fact **Love to learn , Think , Implement**
+- ⚡ Looping:  **Learn , Think , Implement**
 
 </br>
 </br>
