@@ -7,7 +7,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Sagar;Astronaut+in+web+space%2C;Plays+with+Bugdroid%2C;Builds+code+with+❤️%2c" />
  </p>
 </td>
-    <img align="right" width="500" src="https://cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif" alt="Coding">
+    <img align="right" width="480" src="https://cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif" alt="Coding">
 </td>
 
 - 🌱 I’m currently learning **NextJS , tRPC and Strapi**
