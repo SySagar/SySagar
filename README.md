@@ -1,30 +1,24 @@
-
-
+  
 <p align="center" >
+<img height=150px src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" />
  
-  <img height=150px src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" />
   
  </p>
- <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Sagar;A+passionate+competetive+programmer;Android+Developer%2C;Web+Developer%2C;Where+there+is+Code%2C+There+is+Life%2c" />
-  </p>
- 
- 
- <h1></h1>
-
-<img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
-
+ <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Sagar;Astronaut+in+web+space%2C;Plays+with+Bugdroid%2C;Builds+code+with+❤️%2c" />
+ </p>
+</td>
+    <img align="right" width="500" src="https://cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif" alt="Coding">
+</td>
 
 - 🌱 I’m currently learning **NextJS , tRPC and Strapi**
 - 💬 Ask me about **Programming**
 - ✒️ Crafting words into life at [lecifier](https://www.instagram.com/lecifier)
 - ⚔️  Being blue on Codechef
 - ⚡ Looping:  **Learn , Think , Implement**
-
+ 
+ 
 </br>
 </br>
-<h1></h1>
-
-
 
 <h3 align="left">Connect with me:<img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;"></h3>
 <p align="left">
@@ -36,25 +30,23 @@
 
 </br>
 
+<table>
 
 
+<td align="center">
+<h3 align="left">Stats: </h3>
 <p align="center">
-  <img height=230px src="https://i.pinimg.com/564x/28/f2/76/28f2765e35060ace8830174479e60976.jpg" /> 
+  <img height=200px src="https://i.pinimg.com/564x/28/f2/76/28f2765e35060ace8830174479e60976.jpg" /> 
  <img height=200px src=https://github-readme-stats.vercel.app/api/top-langs/?username=SySagar&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
-</P>
-
-<h1></h1>
-
-<h3 align="left">Statistics: </h3>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SySagar&show_icons=true&theme=tokyonight" />
- <br/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SySagar&theme=tokyonight" />
- 
 </p>
-<br>
 
 
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=SySagar&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SySagar&theme=tokyonight" />
+</td>
+
+</table>
+  
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anikcb&amp;theme=solarized_dark" style="max-width:100%;"> -->
 
