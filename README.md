@@ -10,7 +10,7 @@
     <img align="right" width="450" src="https://cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif" alt="Coding">
 </td>
 
-- 🌱 I’m currently learning **NextJS , tRPC and Strapi**
+- 🌱 I’m currently working on  <br/> **[Buggy-Trials](https://github.com/SySagar/Buggy-trials-backend)** - A pair-programming platform
 - 💬 Ask me about **Programming**
 - ✒️ Crafting words into life at [lecifier](https://www.instagram.com/lecifier)
 - ⚔️  Being blue on Codechef
