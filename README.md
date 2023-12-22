@@ -2,18 +2,17 @@
 <p align="center" >
 <img height=150px src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" />
  
-  
  </p>
- <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Sagar;Astronaut+in+web+space%2C;Plays+with+Bugdroid%2C;Builds+code+with+❤️" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Satisfy&color=5F9A80&size=40&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Sagar;From+pixels+to+pipelines+I+build+all;Coffee+and+anime+fueled;Builds+code+with+❤️" />
  </p>
 </td>
     <img align="right" width="450" src="https://cdn.dribbble.com/users/2457221/screenshots/19869130/media/f8afadb465862adf9279d21cacf44b03.gif" alt="Coding">
 </td>
 
-- 🌱 I’m currently working on  <br/> **[Pensdown](https://github.com/SySagar/Pensdown/)** - A friendly bloging website
+- 🌱 I’m currently working on  <br/> **[TownTago](https://github.com/SySagar/TownTango)** - A DAPP for social meetup
 - 💬 Ask me about **Programming**
+- ⚔️ js, ts, and anything you throw at me
 - ✒️ Crafting words into life at [lecifier](https://www.instagram.com/lecifier)
-- ⚔️  Being blue on Codechef
 - ⚡ Looping:  **Learn , Think , Implement**
  
  
