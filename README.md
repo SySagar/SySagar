@@ -51,4 +51,4 @@
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anikcb&amp;theme=solarized_dark" style="max-width:100%;"> -->
 
 
- ![](https://komarev.com/ghpvc/?username=SySagar)
+ <!-- ![](https://komarev.com/ghpvc/?username=SySagar) -->
